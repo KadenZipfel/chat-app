@@ -94,8 +94,10 @@ button:disabled {
 
 .chat__sidebar h3 {
   color: white;
+  padding: 5px;
+  border-bottom: 1px solid white;
   margin: 10px 20px;
-  text-align: left;
+  text-align: center;
 }
 
 .chat__sidebar ul {
@@ -108,6 +110,7 @@ button:disabled {
   border-radius: 5px;
   padding: 10px;
   margin: 10px;
+  text-align: center;
 }
 
 .chat__main {
