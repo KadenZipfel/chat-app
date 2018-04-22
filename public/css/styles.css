@@ -126,6 +126,10 @@ button:disabled {
   -webkit-overflow-scrolling: touch;
 }
 
+.chat__messages li:nth-child(even) {
+  background: #f7f7f7;
+}
+
 .chat__footer {
   background: #e6eaee;
   display: flex;
